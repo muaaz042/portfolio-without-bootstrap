@@ -58,7 +58,7 @@ body {
 }
 
 .home-section {
-  background-image: url(../imgs/home-banner.png);
+  background-image: url(home-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -277,7 +277,7 @@ body {
 
 .form-section {
   border-top-left-radius: 6rem;
-  background-image: url(../imgs/form-banner.png);
+  background-image: url(form-banner.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
